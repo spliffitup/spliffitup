@@ -7,7 +7,7 @@
 c+h always unless specified otherwise
 </div>
 <div align="center">
--13 and basic crit. dni
+-13 and basic crit dni
 </div>
 </p>
 <p align="center">
