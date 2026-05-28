@@ -4,7 +4,7 @@
   <a href="https://seraphixd.atabook.org/">ata</a>
 </div>
 <div align="center">
-w2i & c+h enc unless specified otherwise
+w2i & c+h encouraged unless specified otherwise
 </div>
 <div align="center">
 -13 and basic crit dni
