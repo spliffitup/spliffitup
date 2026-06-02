@@ -9,7 +9,7 @@
 w2i & c+h encouraged unless specified otherwise
 </div>
 <div align="center">
--13 and basic crit dni
+-14 iwc and basic crit dni
 </div>
 </p>
 <p align="center">
