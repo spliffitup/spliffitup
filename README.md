@@ -10,7 +10,7 @@ w2i & c+h encouraged unless specified otherwise
 Look at strawpage for more info
 </div>
 <div align="center">
-It may be hard to read. If so, let me know please, and I'll fix it!
+It may be hard to read. If so, let me know please and I'll fix it!
 </div>
 <p align="center">
 <img width="107px" height="74px" src="https://file.garden/aTN1R0deYkPxCX0D/luna.gif">
