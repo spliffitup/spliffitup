@@ -7,5 +7,5 @@
 </p>
 <div align="center">
 <a href="https://war-paint.straw.page/">STRAW</a>ㅤㅤ￴￴￴￴￴
-<a href="https://war-paint.atabook.org/">NEW ATABOOK</a>ㅤㅤ￴￴
+<a href="https://war-paint.atabook.org/">ATABOOK</a>ㅤㅤ￴￴
 </div>
