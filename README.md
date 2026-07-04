@@ -1,5 +1,5 @@
 <p align="center">
-<img width="161px" height="96px" src="https://i.pinimg.com/originals/1e/20/2d/1e202dae62497d99d669e2f142a250b1.gif">
+<img width="161px" height="96px" src="https://i.pinimg.com/1200x/02/42/8d/02428dc318478d439e060674c10e8173.jpg">
 <p align="center">
 likely ofttab/in menu⠀⠀⠀w2i/c+h⠀⠀⠀don't copy skins
 <p align="center">
