@@ -1,5 +1,6 @@
 <p align="center">
-<img width="161px" height="96px" src="https://i.pinimg.com/1200x/02/42/8d/02428dc318478d439e060674c10e8173.jpg">
+<img width="216px" height="120px" src="https://file.garden/aTN1R0deYkPxCX0D/mizisuachibi.png">
+<p align="center">
 <p align="center">
 likely ofttab/in menu⠀⠀⠀w2i/c+h⠀⠀⠀don't copy skins
 <p align="center">
