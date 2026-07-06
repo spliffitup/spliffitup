@@ -2,7 +2,7 @@
 <img width="174px" height="118px" src="https://file.garden/aTN1R0deYkPxCX0D/mizisuachib.png">
 <p align="center">
 <p align="center">
-${{\color{#fe91bc} {likely} }}$ ${{\color{#fe91bc}{offtab} }}$ ${{\color{#cbf2ea}{or} }}$ ${{\color{#f5bee3}{in} }}$ ${{\color{#f5bee3}{menu} }}$⠀⠀⠀
+${{\color{#fe91bc} {likely} }}$ ${{\color{#fe91bc}{offtab} }}$ ${{\color{#90c3ba}{or} }}$ ${{\color{#f5bee3}{in} }}$ ${{\color{#f5bee3}{menu} }}$⠀⠀⠀
 <p align="center">
   
 <p align="center">
