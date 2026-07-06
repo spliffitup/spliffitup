@@ -6,7 +6,7 @@ ${{\color{#fe91bc} {likely} }}$ ${{\color{#fe91bc}{offtab} }}$ ${{\color{#90c3ba
 <p align="center">
   
 <p align="center">
-${{\color{#90c3ba}{w2i} }}$ ${{\color{#f19eb8}{and} }}$ ${{\color{#0aa793}{/c+h} }}$
+${{\color{#90c3ba}{w2i} }}$ ${{\color{#f19eb8}{and} }}$ ${{\color{#0aa793}{c+h} }}$
 <p align="center">
   
 <div align="center">
