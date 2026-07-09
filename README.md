@@ -5,7 +5,7 @@
 likely offtab or in menu
 <p align="center">
 <p align="center">
-w2i/c+h　　dnc skins
+w2i/c+h
 <p align="center">
   
 <div align="center">
