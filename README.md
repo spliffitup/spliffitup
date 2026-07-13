@@ -2,7 +2,7 @@
 <img width="148px" height="110px" src="https://i.pinimg.com/736x/70/21/5c/70215ccb19d865683ddf84649d76cbc0.jpg">
 <p align="center">
 <p align="center">
-likely offtab or in menu
+almost always offtab or in menu
 <p align="center">
 <p align="center">
 w2i ‎ <img width="28px" height="21px" src="https://64.media.tumblr.com/5bb319237023b8ae43729035aa4f402c/2a6ba979c585bbd6-49/s75x75_c1/af0e756490a05699cfb56421b9ca1cdfd20c0cf3.gifv"> ‎ c+h
